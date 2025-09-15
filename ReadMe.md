@@ -2,6 +2,10 @@
 
 A simple HTML + CSS project that showcases a professional resume in a clean and semantic format.
 
+## 🌐 Project URL
+
+https://github.com/mriyazuddin/resume-project
+
 ## 📂 Project Structure
 
 - `Resume-Project.html` — Main HTML file containing resume content.
