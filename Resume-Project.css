@@ -1,0 +1,38 @@
+* {
+  font-family:
+    ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 400;
+}
+body {
+  border: 2px solid #1e1e1e;
+  padding: 10px;
+  border-radius: 10px;
+}
+h3 {
+  color: #2f9e44;
+}
+
+h4 {
+  color: #1a71c2;
+}
+
+address,
+a {
+  font-style: normal;
+  color: #1e1e1e;
+  text-decoration: none;
+}
+
+li {
+  display: inline-block;
+  list-style: none;
+}
+
+section ul li:after {
+  content: ", ";
+}
+
+section ul li:last-child::after {
+  content: "";
+}
