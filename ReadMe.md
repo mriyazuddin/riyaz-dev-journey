@@ -5,6 +5,7 @@ A simple HTML + CSS project that showcases a professional resume in a clean and 
 ## 🌐 Project URL
 
 https://github.com/mriyazuddin/resume-project
+https://roadmap.sh/projects/single-page-cv
 
 ## 📂 Project Structure
 
